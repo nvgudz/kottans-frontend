@@ -1,7 +1,7 @@
 # kottans-frontend
 ## Stage 0. Self-Study
 ### General
-- [ ] Git Basics
+- [x] Git Basics
 - [ ] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 ### Front-End Basics
