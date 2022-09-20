@@ -9,7 +9,7 @@
 - [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-responsive.md)
 - [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
 - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
-- [ ] [Document Object Model](Document Object Model) - practice
+- [ ] [Document Object Model](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md) - practice
 ### Advanced Topics
 - [ ] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md) - practice
 - [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md) - practice
